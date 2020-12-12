@@ -1,4 +1,4 @@
-Genero,Ordem,Tracheid,Parenc,Resiniferous,Sclerenchyma,Septa,Trilobate,Endarch,Mesarch,Exarch,MixPont,Seriation,TangentialPits,AxialParenchima,RayWidth,RayHeight,WoodType
+Genera,Order,Tracheid,Parenc,Resiniferous,Sclerenchyma,Septa,Trilobate,Endarch,Mesarch,Exarch,MixPont,Seriation,TangentialPits,AxialParenchima,RayWidth,RayHeight,WoodType
 Medullosa,Medullosales,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0
 Colpoxylon,Medullosales,1,1,0,0,0,0,0,1,0,0,1,1,0,1,1,0
 Sutcliffia,Medullosales,1,1,0,0,0,0,0,0,1,0,1,1,0,1,1,0
