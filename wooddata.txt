@@ -17,27 +17,27 @@ Bostonia,Calamopityales,1,0,0,0,0,1,0,1,0,0,1,0,0,0.5,1,0
 Diichnia,Calamopityales,1,1,0,0,0,0,0,1,0,0,1,0,0,1,1,0
 Buteoxylon,Buteoxylonales,1,1,0,0,0,1,0,1,1,0,1,0,0,0.33,1,0
 Triradioxylon,Buteoxylonales,1,1,0,0,0,1,0,1,1,0,1,1,0,0.17,1,0
-G. skaarensi,Glossopteridales,0,1,0,0,1,0,1,0,0,0,0.17,0,0,0,0,1
+Glossopteris,Glossopteridales,0,1,0,0,1,0,1,0,0,0,0.17,0,0,0,0,1
 Ptychoxylon,Cycadales,0,1,0,1,0,0,1,0,0,0,1,0,0,1,1,0
 Cycadoxylon,Cycadales,0,1,1,1,0,0,1,0,0,0,1,0,0,1,1,0
 Palaeoginkgoxylon,Ginkgoales,0,1,0,0,0,0,1,0,0,1,0.17,1,1,0.17,0.5,1
 Ginkgophytoxylon,Ginkgoales,0,1,0,0,0,0,1,0,0,0,0.17,0,1,0.17,0.5,1
-Cordaixylon ,Cordaitales,0,1,0,0,1,0,1,0,0,0,0.5,0,0,0,0.5,1
+Cordaixylon,Cordaitales,0,1,0,0,1,0,1,0,0,0,0.5,0,0,0,0.5,1
 Mesoxylon,Cordaitales,0,1,0,0,1,0,0,1,0,0,0.67,0,0,0.17,0,1
 Shanxioxylon,Cordaitales,0,1,0,0,1,0,1,1,0,0,0.33,0,0,0,0.5,1
-Retemedulloxylon ,Cordaitales,0,1,0,0,1,0,1,0,0,1,0.33,0,0,0,0.5,1
+Retemedulloxylon,Cordaitales,0,1,0,0,1,0,1,0,0,1,0.33,0,0,0,0.5,1
 Carolinapitys,Cordaitales,0,1,0,1,1,0,0,1,0,0,0.33,0,0,0,0.5,1
 Metacordaites,Cordaitales,0,1,1,0,0,0,1,0,0,0,0.17,0,0,0,0.5,1
 Septomedullopitys,Cordaitales,0,1,1,0,1,0,1,0,0,0,0.33,0,0,0.17,1,1
 Piracicaboxylon,Cordaitales,0,1,0,1,0,0,1,0,0,0,0.33,0,0,0,0.5,1
-Macdonaldodendron ,Voltziales,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0.5,1
+Macdonaldodendron,Voltziales,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0.5,1
 Hanskerpia,Voltziales,0,1,0,0,0,0,1,0,0,0,0.17,0,0,0,0,1
 Thucydia,Voltziales,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0.5,1
 Walchiopremnon,Voltziales,0,1,1,1,0,0,1,0,0,0,0.33,0,0,0,1,1
 Scleromedulloxylon,Voltziales,0,1,1,1,0,0,1,0,0,0,0.17,0,0,0,1,1
 Emporia,Voltziales,0,1,0,1,0,0,1,0,0,0,1,0,0,0,0.5,1
 Kaokoxylon,Voltziales,0,1,0,1,0,0,1,0,0,0,0.17,0,0,0,1,1
-Coniferlike stems,Voltziales,0,1,1,0,0,0,1,0,0,0,0.17,0,0,0,0,1
+Coniferlikestems,Voltziales,0,1,1,0,0,0,1,0,0,0,0.17,0,0,0,0,1
 Barthelia,Voltziales,0,1,0,1,1,0,1,0,0,0,0,0,0,0,0.5,1
 Aculeovinea,Gigantopteridales,0,1,0,0,0,0,0,1,0,0,1,1,1,0,1,0
 Vasovinea,Gigantopteridales,0,1,0,0,0,0,0,1,0,0,1,1,0,0.17,1,0
